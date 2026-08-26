@@ -189,8 +189,15 @@ This project demonstrates practical use of:
 
 Despite the notebook filename containing **"Car prediction"**, the provided notebook primarily performs **exploratory data analysis and visualization**. It does not contain a trained machine-learning price prediction model; the main focus is car-price analysis using Pandas, Matplotlib, and Seaborn.
 
-## 👤 Author
+## Author
 
+**Disha Dhingra**  
+Data Analyst | Power BI | SQL | Python | Advanced Excel
+
+- GitHub: [disha2093](https://github.com/disha2093)
+- LinkedIn: [Disha Dhingra](https://www.linkedin.com/in/disha-dhingra2003/)
+
+---
 **Car Price Analysis Project**
 
 Built for learning and practicing Python-based data analysis and visualization.
